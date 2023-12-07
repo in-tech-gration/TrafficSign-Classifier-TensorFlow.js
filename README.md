@@ -1,6 +1,10 @@
 # TrafficSign-Classifier-TensorFlow.js
 
-Classifying Traffic Signs using Machine Learning and Tensorflow.js
+## Classifying Traffic Signs using Machine Learning and Tensorflow.js
+
+A project by **Cohort0x02** of [Web Development X](https://in-tech-gration.github.io/WDX-180/) course by [intechgration.io]().
+
+![](/assets/images/TF_FullColor_PrimaryHorizontal.jpg)
 
 ## Resources
 
