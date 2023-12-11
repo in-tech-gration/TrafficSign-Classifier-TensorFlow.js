@@ -10,6 +10,13 @@ A project by **Cohort0x02** of [Web Development X](https://in-tech-gration.githu
 
   Images are collected in `portrait mode`. They should be resized to a width of **1280px**.
 
+  Image resizing tools (available online for free):
+
+  - [https://www.reduceimages.com/](https://www.reduceimages.com/)
+  - [https://www.iloveimg.com/resize-image#resize-options,pixels](https://www.iloveimg.com/resize-image#resize-options,pixels)
+  - [https://www.simpleimageresizer.com/](https://www.simpleimageresizer.com/)
+  - [https://imageresizer.com/](https://imageresizer.com/)
+
 ## Resources
 
 - [https://www.wikiwand.com/en/Comparison_of_European_road_signs](https://www.wikiwand.com/en/Comparison_of_European_road_signs)
