@@ -6,6 +6,10 @@ A project by **Cohort0x02** of [Web Development X](https://in-tech-gration.githu
 
 ![](/assets/images/TF_FullColor_PrimaryHorizontal.jpg)
 
+## Process
+
+  Images are collected in `portrait mode`. They should be resized to a width of **1280px**.
+
 ## Resources
 
 - [https://www.wikiwand.com/en/Comparison_of_European_road_signs](https://www.wikiwand.com/en/Comparison_of_European_road_signs)
